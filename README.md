@@ -1,3 +1,3 @@
 # CarolinaSilisqueIMT-231
 ---------
-Soy Carolina Silisque estudio Ingenieria Biomedica ,
+Soy Carolina Silisque estudio Ingenieria Biomedica
