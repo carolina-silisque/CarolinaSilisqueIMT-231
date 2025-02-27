@@ -20,6 +20,7 @@ El shell es la interfaz entre el usuario y el sistema operativo en Linux. Aprend
 - `chmod` → Cambia permisos de archivos.
 - `chown` → Cambia el propietario de un archivo.
 
+
 ### **Procesos**
 - `ps` → Muestra procesos en ejecución.
 - `kill` → Termina un proceso.
