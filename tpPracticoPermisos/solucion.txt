@@ -1,3 +1,25 @@
 enlace repositorio github
-Qué número de permisos aplicarías y qué comando ejecutarías?
+1. Qué número de permisos aplicarías y qué comando ejecutarías?
 primero le di permisos con chmod 640 para lectura y escritura para solo el propietario con 6, 4 para grupos y  0 para otros para que no puedan ejecutar escribir ni leer 
+
+2.El propietario puede leer, escribir y ejecutar.
+El grupo y otros usuarios pueden solo ejecutarlo.
+Pregunta
+¿Qué comando aplicarías para asignar estos permisos?
+
+utilice el comando chmod 711, 7 para el propietario y 1 para grupo y otros usuarios 
+
+3. Requisitos
+Solo el propietario puede leer y escribir.
+Nadie más debe poder acceder.
+Pregunta
+¿Qué número de permisos es el adecuado?
+se  colocaria chmod 500 por que solo el propietario debe poder leer y escribir 
+
+4.Requisitos
+Solo el propietario puede leerlo.
+Nadie más debe tener acceso.
+Pregunta
+¿Qué comando utilizarías para establecer estos permisos?
+usaria chmod 400 (solo el propietario lo leera)
+
