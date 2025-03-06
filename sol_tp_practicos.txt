@@ -1,0 +1,31 @@
+1. chmod 622 registro.log
+propietario lectura y escritura 4+2=6 y otros solo lectura 22
+
+2. chmod 700 ejecutable.sh 
+propietario lee, escribe y ejecuta 4+2+1=7 otros sin acceso 00
+
+3. chmod 666 publico.txt
+toso pueden leer y escribir 4+2=6 666
+
+4. chmod 600 respaldo.db 
+solo propietario lee y escribe 4+2=6
+
+5. chmod 744 instrucciones.txt 
+propietario lo modifica (7) y otros solo lo leen (4)
+
+6. chmod 400 secreto.key
+propietario solo lee 400
+
+7. chmod 100 ejecutar_programa
+solo el dueno ejecuta el archivo 100
+
+8. chmod 666 compartido.doc
+todos leen y modifican 
+
+ 9. chmod 755 solo_ejecucion 
+ solo el dueno lo ejecuta, los demas lo ejecutan pero no modifican 
+ 
+10. chmod 640 reporte_admin.pdf 
+solo el dueño puede leer y escribir.
+El grupo del dueño puede leerlo.
+Otros usuarios no pueden acceder.

@@ -1,4 +1,6 @@
 enlace repositorio github
+https://github.com/carolina-silisque/CarolinaSilisqueIMT-231/tree/main/tpPracticoPermisos
+
 1. Qué número de permisos aplicarías y qué comando ejecutarías?
 primero le di permisos con chmod 640 para lectura y escritura para solo el propietario con 6, 4 para grupos y  0 para otros para que no puedan ejecutar escribir ni leer 
 
