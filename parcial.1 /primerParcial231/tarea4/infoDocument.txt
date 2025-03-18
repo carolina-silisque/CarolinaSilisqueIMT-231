@@ -1,0 +1,6 @@
+Fecha y Hora: jue 13 mar 2025 11:47:45 -04
+nombre del usuario: carolina-silisque
+version de kernel: 6.11.0-17-generic
+Distribucion de LINUX: PRETTY_NAME="Ubuntu 24.04.2 LTS"
+COMENTARIO: este documento corresponde a la tarea 4 del examen 
+

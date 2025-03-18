@@ -1,0 +1,10 @@
+1.
+cd para direccionarme a la carpeta o  archivo en el que voy a trabajar, ls para ver que archivos hay dentro de la carpeta, mkdir para crear un nuevo directorio, touch para crear un archivo dentro de una carpeta , date para colocar la fecha y hora en fecha tarea1, cat  para revisar lo que se escribio en el archivo de texto, chmod (777) para darle los permisos necesarios a primerParcial231
+2.
+elegi el numero 600 donde solo el propietario ppuede leer y escribir (4+2=6), y el grupo y otros usaurios no deben leer ni escribir 0 para cada grupo 
+3.
+utilize 554 al inicio solo el propietario y el grupo y otros no podian ejecutar pero si leerlo, luego lo camie a 774 por que no se podia escribir en el rchivo 
+4.
+utilize el editor nano, copie las saalidaas par pegarlas de whoo=ami uname r ,etc
+5.
+el comando tree -p nos muestra la lista de los archivos como un mapa conceptual, ademas mostrando los permisos q tiene cada archivo o carpeta, para ello se usa el -p para ver los permiso
